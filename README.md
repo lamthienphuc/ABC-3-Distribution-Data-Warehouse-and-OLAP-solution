@@ -106,7 +106,8 @@ plot shows the relationship between order quantity and sales amount by country a
 provides detailed data for December 6, 2013. The value "Sales Amount - Fact Reseller Sales
 33,574,834.16" may refer to the total sales for the selected date.
 # Summary of Findings
-The distributor sales analysis reveals strong overall performance with significant growth over time. Key findings include:  Strong Sales Growth: Total sales reached $80.45 million, with substantial year-over-year
+The distributor sales analysis reveals strong overall performance with significant growth over time. Key findings include: 
+Strong Sales Growth: Total sales reached $80.45 million, with substantial year-over-year
 increases from 2010 to 2013. 
 
 Dominant Product Category: Bikes are the top-selling product category, generating
