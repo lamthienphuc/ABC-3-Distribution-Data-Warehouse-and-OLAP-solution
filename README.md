@@ -1,5 +1,3 @@
-# ABC-3-Distribution-Data-Warehouse-and-OLAP-solution
-Develop a well-structured relational schema for a data warehouse that effectively stores and manages the data provided by the ABC-3 Distribution company, Implement a multidimensional OLAP cube, Generate insightful reports
 # Data Warehouse Design
 Key Concepts for Data Warehousing:
 
