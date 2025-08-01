@@ -71,40 +71,18 @@ of detail, which is crucial for decision-making processes.
 # Report Generation and Analysis
 ![image](https://github.com/user-attachments/assets/87201532-3f23-4d0b-9224-f178cd90bfe8)
 Insights and Findings
-This dashboard displays distributor sales data and provides an overview of business performance. Below is a detailed analysis of each section
-General Metrics:  
-Total Order Quantity: 214,000 orders. This is the total number of orders placed through
-distributors. 
-
-Total Sales Amount: $80.45 million. This is the total sales value generated from distributor
-orders.  
 
 Average Tax: $6.44 million. This figure seems inaccurate as average tax is usually
 represented as a percentage or a much smaller value compared to total sales. This may refer
 to the total tax collected, rather than average tax.
 
-Sales by Product Category:
-Reseller Sales Amount by Product Subcategory: This bar chart shows that "Bikes" account
-for the majority of sales ($66.30 million), followed by "Components" ($11.80 million), "Clothing" ($1.78 million), and "Accessories" ($0.57 million). 
 
-Sales by Date and Product Category:Reseller Sales Amount by Date and Product Category: This line chart shows the sales trend
+Sales by Date and Product Category & Reseller Sales Amount by Date and Product Category
 over time. Sales increased from around $0 million in 2010 to $18 million in 2011, $28
 million in 2012, and $34 million in 2013. The steady growth in sales indicates positive
 business performance.
 
-Top 5 Countries by Sales: Top 5 Countries by Sales Amount: This table lists the top 5 countries contributing to sales
-revenue, with the United States leading at $53.6 million, followed by Canada ($14.3
-million), France ($4.6 million), the United Kingdom ($4.2 million), and Germany ($1.9
-million). The total sales from these 5 countries amount to $80,450,596.98. 
 
-Order Quantity by Category: Order Quantity by Category: This pie chart shows the percentage of orders by product
-category: Bikes (34.99%), Components (22.87%), Clothing (30.09%), and Accessories
-(12.05%). 
-
-Order Quantity and Sales by Sales Territory and Date: Order Quantity and Sales Amount by Sales Territory Country and Date Key: This scatter
-plot shows the relationship between order quantity and sales amount by country and date. It
-provides detailed data for December 6, 2013. The value "Sales Amount - Fact Reseller Sales
-33,574,834.16" may refer to the total sales for the selected date.
 # Summary of Findings
 The distributor sales analysis reveals strong overall performance with significant growth over time. Key findings include: 
 Strong Sales Growth: Total sales reached $80.45 million, with substantial year-over-year
@@ -117,20 +95,6 @@ Key Geographic Markets: The United States is the largest market, contributing $5
 million in sales, followed by Canada, France, the United Kingdom, and Germany. These
 five countries account for the vast majority of total sales. 
 
-Order Quantity Distribution: While Bikes lead in sales value, Clothing accounts for the
-largest share of order quantity (30.09%), followed by Bikes (34.99%), Components
-(22.87%), and Accessories (12.05%). This suggests varying average order values across
-categories. 
-
-Potential Data Inaccuracy: The reported "Average Tax" of $6.44 million seems unusually
-high and likely represents total tax collected rather than average tax per order. 
-
-Detailed Snapshot: A detailed analysis of December 6, 2013, provides a specific example
-of the relationship between order quantity and sales amount within different sales territories. 
-
-In summary, the business is experiencing healthy growth driven by bike sales in key markets like
-the United States. Further analysis of the tax data and the relationship between order quantity and
-sales value across different categories could provide additional insights.
 # Recommendations
 - Implement a Key Account Management Program for Top Resellers.
 - Conduct a Regional Market Analysis for the Eastern Region.
